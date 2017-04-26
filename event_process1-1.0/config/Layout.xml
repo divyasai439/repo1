@@ -3,5 +3,6 @@
   <subflow name="FIORANO.ESTUDIO.ROOT_FLOW" x="0" y="0">
     <service-instance name="chat1" x="365" y="62"/>
     <service-instance name="chat2" x="518" y="62"/>
+    <service-instance name="chat3" x="530" y="169"/>
   </subflow>
 </layout>
