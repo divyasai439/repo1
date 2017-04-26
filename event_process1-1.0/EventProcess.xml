@@ -238,6 +238,11 @@
       <target inst="chat3" port="IN_PORT"/>
       <messages/>
     </route>
+    <route name="route3">
+      <source inst="chat2" port="OUT_PORT"/>
+      <target inst="chat3" port="IN_PORT"/>
+      <messages/>
+    </route>
   </routes>
   <durableRoute/>
   <deleteDestinationAfterStop/>
